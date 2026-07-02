@@ -79,6 +79,8 @@ Na ovaj način značajno je smanjeno vreme izvršavanja agregacionih upita.
 5. Koje karakteristike turisti najčešće ističu u komentarima?
 6. Koji smeštaji imaju najbolji turistički skor i najviše stvarnih komentara turista?
 
+Implementacija svih agregacionih upita, zajedno sa njihovom optimizacijom i analizom performansi, dostupna je u datoteci [novo1.ipynb](novo1.ipynb).
+
 # Performanse
 Za svaki upit upoređene su performanse pre i nakon optimizacije, pri čemu je analizirano ostvareno ubrzanje izvršavanja.
 
@@ -86,4 +88,8 @@ Za svaki upit upoređene su performanse pre i nakon optimizacije, pri čemu je a
 
 <img width="1182" height="602" alt="image" src="https://github.com/user-attachments/assets/03b59bb9-9bfd-47f4-8f3c-a30e8b304c87" />
 
+# Skup podataka
 
+Madrid Airbnb Data
+
+https://www.kaggle.com/datasets/rusiano/madrid-airbnb-data
