@@ -21,11 +21,12 @@ Skup podataka sadrži informacije o Airbnb smeštajima u gradu Madridu i obuhvat
   
 ## Korišćene datoteke
 
-- listings.csv
-- listings_detailed.csv
-- reviews.csv
-- reviews_detailed.csv
-- calendar.csv
+• listings.csv
+• listings_detailed.csv
+• reviews.csv
+• reviews_detailed.csv
+• calendar.csv
+• neighbourhoods.csv
 
 Za potrebe MongoDB projekta izvršena je podela podataka u više kolekcija kako bi se omogućilo izvođenje složenih agregacionih upita korišćenjem operatora `$lookup`.
 
