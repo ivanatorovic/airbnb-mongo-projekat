@@ -45,6 +45,7 @@ Korišćene kolekcije:
 - reviews
 - reviews_detailed
 - calendar
+- neighbourhoods
 
 Nad ovom šemom izvršavani su složeni agregacioni upiti bez dodatnih optimizacija.
 
