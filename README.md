@@ -85,9 +85,11 @@ Implementacija svih agregacionih upita, zajedno sa njihovom optimizacijom i anal
 # Performanse
 Za svaki upit upoređene su performanse pre i nakon optimizacije, pri čemu je analizirano ostvareno ubrzanje izvršavanja.
 
-<img width="1168" height="617" alt="image" src="https://github.com/user-attachments/assets/24678838-a796-442a-9e08-0c8c00812358" />
+<img width="1530" height="821" alt="image" src="https://github.com/user-attachments/assets/53a15d6d-30d8-43f0-92e6-7e7e5de11630" />
 
-<img width="1182" height="602" alt="image" src="https://github.com/user-attachments/assets/03b59bb9-9bfd-47f4-8f3c-a30e8b304c87" />
+
+<img width="1526" height="817" alt="image" src="https://github.com/user-attachments/assets/2a6eb336-4c4d-4b8d-a76f-ee1ed4c5903d" />
+
 
 # Skup podataka
 
