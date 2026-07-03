@@ -96,3 +96,9 @@ Za svaki upit upoređene su performanse pre i nakon optimizacije, pri čemu je a
 Madrid Airbnb Data
 
 https://www.kaggle.com/datasets/rusiano/madrid-airbnb-data
+
+## 📄 Dodatni materijali
+
+Prezentaciju projekta, koja sadrži predlog projekta, logičku šemu baze podataka, implementirane upite i analizu optimizacije, možete preuzeti ovde:
+
+- [prezentacija.pptx](./prezentacija.pptx)
